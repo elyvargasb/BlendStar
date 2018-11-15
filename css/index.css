@@ -1,0 +1,47 @@
+h1{
+  font-size: 150px;
+  color: #fff;
+  text-align: right;
+  font-family: 'Poor Story', cursive;
+}
+
+#portfolio-column1{
+  width: 33%;
+  background-color: #000;
+  padding: 10px;
+  float: left;
+}
+#portfolio-column2{
+  background-image: url("../images/elephant.jpg");
+  height: 569px;
+  float: left;
+  width: 33%;
+}
+#portfolio-column3{
+  background: url("../images/Animation-1.gif") no-repeat center center #DCD757;
+  height: 569px;
+  float: left;
+  width: 32%;
+}
+#portfolio-column4{
+  background-image: url("../images/illustrations-1.jpg");
+  height: 569px;
+  float: left;
+  width: 33%;
+}
+#portfolio-column5{
+  width: 33%;
+  padding: 10px;
+  float: left;
+}
+#portfolio-column6{
+  background-image: url("../images/elephant.jpg");
+  height: 569px;
+  float: left;
+  width: 32%;
+}
+
+.ely{
+  background-color: red;
+  border-radius: 0rem;
+}
