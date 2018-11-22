@@ -4,6 +4,19 @@ h1{
   text-align: right;
   font-family: 'Poor Story', cursive;
 }
-header-logo img{
+
+.logo{
+  margin-bottom: 5%;
+}
+.logo img{
   width: 70%;
+  text-align: center;
+}
+
+.header-social-icons {
+  text-align: right;
+}
+
+.menu-nav li{
+  padding-right: 15px;
 }
