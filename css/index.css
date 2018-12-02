@@ -1,22 +1,66 @@
-h1{
+.container{
+  max-width: 1300px;
+}
+
+  h1{
   font-size: 150px;
   color: #fff;
   text-align: right;
   font-family: 'Poor Story', cursive;
 }
 
-.logo{
-  margin-bottom: 5%;
+  a {
+    color: #000;
+  }
+
+.header {
+  background-image: url("../images/banner.jpg");
+  height: 400px;
+  padding-top: 10%;
 }
+
+.logo{
+  text-align: center;
+}
+
 .logo img{
   width: 70%;
-  text-align: center;
 }
 
 .header-social-icons {
   text-align: right;
 }
 
-.menu-nav li{
-  padding-right: 15px;
+.menu-nav{
+  padding: 2%;
+  border-bottom: 3px solid #000;
+}
+
+.menu-nav li {
+  padding-right: 20px;
+  font-family: 'Text Me One', sans-serif;
+  font-size: 20px;
+  color: #000;
+}
+
+.news-offers{
+  background-image: url(../images/HomeBackground1.jpg);
+  height: 409px;
+}
+
+.signup{
+  padding-top: 22%;
+  text-align: right;
+}
+
+.notsure{
+  padding: 3% 3% 0;
+
+}
+footer{
+  background-color: #000;
+  color: #eee;
+  font-size: 10px;
+  padding: 2%;
+  text-align: center;
 }
