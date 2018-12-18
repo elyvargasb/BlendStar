@@ -49,12 +49,15 @@
 }
 
 .signup{
-  padding-top: 22%;
+  padding-top: 20%;
   text-align: right;
 }
 
 .notsure{
   padding: 3% 3% 0;
+  background:#FFF;
+  height: 160px;
+  margin-top: 2%;
 
 }
 footer{
