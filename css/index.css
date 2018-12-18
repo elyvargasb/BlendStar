@@ -13,7 +13,7 @@
     color: #000;
   }
 
-.header {
+.header-index {
   background-image: url("../images/banner.jpg");
   height: 400px;
   padding-top: 10%;
@@ -25,6 +25,9 @@
 
 .logo img{
   width: 70%;
+}
+.header .logo img{
+  width: 50%;
 }
 
 .header-social-icons {
@@ -60,10 +63,10 @@
   margin-top: 2%;
 
 }
-footer{
+#footer{
   background-color: #000;
   color: #eee;
-  font-size: 10px;
-  padding: 2%;
+  font-size: 15px;
+  padding: 1%;
   text-align: center;
 }
