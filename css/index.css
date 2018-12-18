@@ -38,8 +38,13 @@
   text-align: right;
 }
 
+.header{
+  padding: 2%;
+  border-bottom: 3px solid #000;
+}
+
 .menu-nav{
-  padding: 1%;
+  padding: 2%;
   border-bottom: 3px solid #000;
 }
 
