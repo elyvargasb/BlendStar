@@ -2,11 +2,15 @@
   max-width: 1300px;
 }
 
+.content{
+  padding-top: 5%;
+}
+
   h1{
-  font-size: 150px;
-  color: #fff;
-  text-align: right;
-  font-family: 'Poor Story', cursive;
+  font-size: 100px;
+  color: #000;
+  text-align: left;
+  font-family: 'Text Me One', sans-serif;
 }
 
   a {
@@ -35,15 +39,20 @@
 }
 
 .menu-nav{
-  padding: 2%;
+  padding: 1%;
   border-bottom: 3px solid #000;
 }
 
-.menu-nav li {
+.nav{
+  padding-top: 2%;
+  width: 284px;
+}
+.nav li {
   padding-right: 20px;
   font-family: 'Text Me One', sans-serif;
   font-size: 20px;
   color: #000;
+  flex-direction: column;
 }
 
 .news-offers{
