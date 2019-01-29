@@ -1,5 +1,5 @@
 $(function(){
-  $("#header-index").load("header-index.html");
   $("#header").load("header.html");
+  $("#home-slider").load("home-slider.html");
   $("#footer").load("footer.html");
 });
